@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>Space Shooter Demo</title>
+		<style>
+			/* canvas for ship*/
+			canvas {
+				position: absolute;
+				top: 0px;
+				left: 0px;
+				background: transparent;
+			}
+			/*actual background the ship moves on*/
+			#background {
+				z-index: -2;
+			}
+			
+			/*actual background the ship moves on*/
+			#main {
+				z-index: -1;
+			}
+
+			/* the ship*/
+			#ship {
+				z-index: 0;
+			}
+		</style>
+	</head>
+	<body>
+		<!-- The canvas for the panning background -->
+		<canvas id="background" width="500" height="360">
+			Your browser does not support canvas. Please try again with a different browser.
+		</canvas>
+
+		<canvas id="main" width="600" height="360">
+			Your browser does not support canvas. Please try again with a different browser.
+		</canvas>
+
+		<canvas id="ship" width="500" height="360">
+			Your browser does not support canvas. Please try again with a different browser.
+		</canvas>
+		<script src="js/shooterPartOne.js"></script>
+	</body>
+</html>
