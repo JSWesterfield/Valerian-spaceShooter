@@ -1,4 +1,6 @@
-# Valerian-spaceShooter
+# Valerian-spaceShooter <img src="https://i.stack.imgur.com/rsH6n.png" width="50" height="50" />
+ 
+
 Creating a space shooter, that will resemble the Valerian movie. A good movie. But overall a cool project for my portfolio page.
 
 
@@ -11,7 +13,7 @@ These instructions will get you a copy of the project up and running on your loc
 What things you need to install the software and how to install them
 
 ```
-Give examples
+No installation necessary but render here:
 ```
 
 ### Installing
@@ -58,30 +60,21 @@ Add additional notes about how to deploy this on a live system
 
 ## Built With
 
-* [Dropwizard](http://www.dropwizard.io/1.0.2/docs/) - The web framework used
-* [Maven](https://maven.apache.org/) - Dependency Management
-* [ROME](https://rometools.github.io/rome/) - Used to generate RSS Feeds
+* [Node.JS](https://nodejs.org/en/docs/) - The web framework, Node.JS is designed to build scalable network applications, as an asynchronous event driven JavaScript runtime.
+* [Express.JS](https://expressjs.com/en/starter/installing.html) - Express is a minimal and flexible Node.js web application framework that provides a robust set of features for web and mobile applications.
+* [Heroku](https://devcenter.heroku.com/start) - is a platform as a service (PaaS) that enables developers to build, run, and operate applications entirely in the cloud.
 
 ## Contributing
 
-Please read [CONTRIBUTING.md](https://gist.github.com/PurpleBooth/b24679402957c63ec426) for details on our code of conduct, and the process for submitting pull requests to us.
+Please read [CONTRIBUTING.md]() for details on our code of conduct, and the process for submitting pull requests to us.
 
-## Versioning
-
-We use [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](https://github.com/your/project/tags). 
 
 ## Authors
 
-* **Billie Thompson** - *Initial work* - [PurpleBooth](https://github.com/PurpleBooth)
+* **Jacob Westerfield** - *Initial work* - (https://jakewesterfield.herokuapp.com/)
 
-See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
 
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
 
-## Acknowledgments
-
-* Hat tip to anyone who's code was used
-* Inspiration
-* etc
